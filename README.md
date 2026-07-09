@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0392-is-subsequence) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
