@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
