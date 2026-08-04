@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
