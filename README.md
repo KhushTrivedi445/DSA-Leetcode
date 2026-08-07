@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0877-stone-game](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
 |  |
