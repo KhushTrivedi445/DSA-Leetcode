@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
