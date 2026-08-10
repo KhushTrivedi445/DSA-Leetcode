@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0520-detect-capital) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Queue
