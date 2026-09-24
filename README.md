@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
