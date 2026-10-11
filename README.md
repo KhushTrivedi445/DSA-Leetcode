@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
