@@ -1,6 +1,6 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        if len(nums)==0:
+        if(len(nums)==0):
             return 0
         i=0
         j=1
