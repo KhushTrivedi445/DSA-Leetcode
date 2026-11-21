@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0015-3sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KhushTrivedi445/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
